@@ -1,0 +1,7 @@
+7A: Success Case: Display fund w/ 0 transactions
+7B: Success Case: Display fund w/ 1 transaction
+7C: Success Case: Display fund w/ 1 of each transactions
+7D: Success Case: Display fund w/ 3 of each transactions
+
+7E: Error Case: Account isn't in tree
+7F: Error Case: Lower and upper bounds check on fund #

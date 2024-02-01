@@ -1,0 +1,13 @@
+3A: Success Case: Withdrawing multiple times from 1 fund
+3B: Success Case: P.M.M covering for M.M 
+3C: Success Case: M.M covering for P.M.M
+3D: Success Case: S.T.B covering for L.T.B
+3E: Success Case: L.T.B covering for S.T.B
+3F: Success Case: Withdrawing $0
+
+3G: Error Case: Withdrawing negative $
+3H: Error Case: Withdrawing too much from a fund
+3I: Error Case: P.M.M not covering for M.M 
+3J: Error Case: M.M not covering for P.M.M
+3K: Error Case: S.T.B not covering for L.T.B
+3L: Error Case: L.T.B not covering for S.T.B

@@ -1,0 +1,13 @@
+4A: Success Case: 1 Transfer to a fund
+4B: Success Case: Multiple tranfers to a fund
+4C: Success Case: Multiple transfers to multiple funds
+4D: Success Case: P.M.M covering for M.M, vice versa
+4E: Success Case: L.T.B covering for S.T.B, vice versa 
+4F: Success Case: Transfering $0
+4G: Success Case: Transfering to the same fund
+
+4H: Error Case: Negative transfer amount
+4I: Error Case: Transfering too much
+4J: Error Case: P.M.M not covering for M.M, vice versa
+4K: Error Case: L.T.B not covering for S.T.B, vice versa 
+
