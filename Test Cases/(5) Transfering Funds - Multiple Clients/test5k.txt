@@ -1,7 +1,0 @@
-O 963 Collete Toni 
-O 1243 Shannon Michael
-T 963 0 1244 0 100
-T 963 0 1245 -3 500
-T 963 0 1246 9 -800
-H 963
-H 1243

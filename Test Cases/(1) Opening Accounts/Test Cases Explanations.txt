@@ -1,6 +1,0 @@
-1A: Success Case: 1 account is successfuly opened
-1B: Success Case: Accounts w/ the same names opend
-1C: Success Case: Many accounts succesfully opened, investigate tree construction
-
-1D: Error Case: Accounts w/ same key opened
-1E: Error Case: Account w/ a negativie key 

@@ -1,5 +1,0 @@
-O 2021 Parnell Charles
-O 2020 Baker Sala
-T 2021 0 2020 -1 -1000
-H 2021
-H 2020
