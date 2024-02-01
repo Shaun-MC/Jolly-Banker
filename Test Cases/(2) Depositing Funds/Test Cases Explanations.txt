@@ -1,0 +1,7 @@
+2A: Success Case: 1 deposit made
+2B: Success Case: Many deposits made
+2C: Success Case: Depositing into 2 different client accounts 
+
+2D: Error Case: Account key doesn't isn't in tree - tree traversal
+2E: Error Case: Lower & Upper bounds check of funds value 
+2F: Error Case: Despoiting a negative value

@@ -1,0 +1,6 @@
+6A: Success Case: Display client w/ 0 transactions
+6B: Success Case: Display client w/ 1 of each transaction
+6C: Success Case: Display client w/ funds in all accounts
+6D: Success Case: Display client w/ 3 of each transactions, tranfering between different accounts
+
+6E: Error Case: Account isn't in tree
